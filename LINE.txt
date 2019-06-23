@@ -1,0 +1,30 @@
+Your Tunnel Authtoken:
+3iiWQYa9duDeCUA5dN7bv_VedQ64pKXijLzvAiDQ3w
+
+
+ºô§}:
+http://877027bc.ngrok.io/
+
+Channel secret:
+9fd9e41cbb39048c31d6a4175b44bfd3
+
+Channel access token (long-lived) :
+9JPOOKX01MpOUK/erxfRJdUEnGPxTKYAtwODwy/ReEV9u5yGaXQzh7s53otvWiyZRh+wNZJ5SDckqSkDwgxaIBqFwgEvwFQUQ59EKTyskOmh6ChdFD6rCOQ5dIyD7xPb0+hiiDd52OcHZnV5RcpkawdB04t89/1O/w1cDnyilFU=
+
+
+TEST
+KEY1
+9e235a49c87e4f4485c82cd5ecc9181a
+KEY2
+117682b91823410094be7091846ac3df
+
+
+Request URL
+https://eastasia.api.cognitive.microsoft.com/vision/v1.0/analyze?visualFeatures=Categories&language=en
+
+
+
+
+
+key transform:
+050922789d104c5d88fd0cc4cd13efe3
